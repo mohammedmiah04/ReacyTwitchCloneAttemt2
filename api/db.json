@@ -1,26 +1,20 @@
 {
   "streams": [
     {
-      "title": "my test post",
-      "description": "testing if user ID gets recorded",
-      "userId": "102307108697725643640",
-      "id": 5
-    },
-    {
       "title": "five",
       "description": "five",
       "id": 6
     },
     {
-      "userId": "102307108697725643640",
-      "id": 7,
-      "title": "attemp9",
-      "description": "fgfg"
-    },
-    {
       "title": "values",
       "description": "2",
       "id": 8
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "userId": "102307108697725643640",
+      "id": 9
     }
   ]
 }
